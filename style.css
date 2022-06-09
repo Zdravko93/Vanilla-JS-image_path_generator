@@ -1,0 +1,21 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+select {
+    margin-bottom: 5px;
+    padding: 5px;
+}
+
+input {
+    margin: 5px 0px;
+    padding: 5px;
+    border: 2px dashed limegreen;
+}
+
+textarea {
+    border: 3px solid lightblue;
+}
+
